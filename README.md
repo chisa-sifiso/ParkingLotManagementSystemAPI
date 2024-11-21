@@ -68,7 +68,7 @@
         </tbody>
     </table>
 
-    <h2>License</h2>
+<h2>License</h2>
     <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 </body>
 </html>
