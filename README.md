@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Parking Lot Management System</title>
-</head>
+
 <body>
     <h1>Parking Lot Management System</h1>
     <p>This is a Spring Boot REST API for managing parking spaces in a parking lot. The API provides CRUD functionality for parking spaces, allowing users to create, retrieve, update, and delete parking spaces.</p>
