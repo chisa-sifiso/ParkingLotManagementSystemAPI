@@ -66,5 +66,6 @@
 
 <h2>License</h2>
     <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
+<h3>Developed by Sfiso Vinjwa</h3>
 </body>
 </html>
